@@ -25,6 +25,7 @@ void main(List<String> arguments) {
     print(animal);
 
   }catch(e){
+    //catch 로직 실행
 
     print(e);
 
